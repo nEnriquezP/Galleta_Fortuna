@@ -38,6 +38,7 @@ public class GalletaFortuna implements ActionListener{
                 "Si quieres que tus sueños se hagan realidad, el primer paso es levantarte.",
                 "Haz de cada día tu obra maestra.",
                 "El fracaso es una buena oportunidad para empezar de nuevo con más inteligencia.",
+                "Siempre trata de ser una mejor versión de ti mismo",
                 "Da siempre lo mejor de ti mismo. Lo que plantas ahora, se cosechará más tarde.",
                 "Las oportunidades son como los amaneceres. Si esperas mucho tiempo, las pierdes. - William",
                 "Cuando te levantes por la mañana, piensa en el precioso privilegio de estar vivo, respirar, pensar, disfrutar y amar. "
