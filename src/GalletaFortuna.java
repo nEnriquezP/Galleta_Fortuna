@@ -23,7 +23,7 @@ public class GalletaFortuna implements ActionListener{
         frame.add(panel);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(900, 300);
+        frame.setSize(600, 300);
         frame.setVisible(true);
     }
 
